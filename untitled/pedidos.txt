@@ -1,0 +1,9 @@
+Pedido Realizado:
+- Batata Frita (Qtd: 1)
+Total: R$12.0
+Forma de Pagamento: Dinheiro
+Endereço de Entrega:
+CEP: 56520-000
+Endereço: dasd, asda
+Complemento: das
+========================================
